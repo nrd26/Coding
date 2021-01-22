@@ -1,2 +1,4 @@
 D:\Coding\Hello World\Debug\Hello World.exe
 D:\Coding\Hello World\Debug\Hello World.pdb
+D:\Coding\CPP\Hello World\Debug\Hello World.exe
+D:\Coding\CPP\Hello World\Debug\Hello World.pdb
