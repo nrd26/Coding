@@ -1,0 +1,2 @@
+D:\Coding\CPP\binary_trees\Debug\binary_trees.exe
+D:\Coding\CPP\binary_trees\Debug\binary_trees.pdb

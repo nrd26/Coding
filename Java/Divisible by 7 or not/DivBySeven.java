@@ -15,8 +15,6 @@ public class DivBySeven{
 			System.out.println(a+" is not divisible by 7");
 			int b= a+(7-(a%7));
 			System.out.println("Next no divisible by 7: "+b);
-		}
-		
+		}	
 	}
-	
 }

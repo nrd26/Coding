@@ -1,2 +1,0 @@
-D:\Coding\CPP\Stacks\Debug\Stacks.exe
-D:\Coding\CPP\Stacks\Debug\Stacks.pdb
